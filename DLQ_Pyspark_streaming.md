@@ -1,4 +1,5 @@
 ---
+
 title: Handling Bad Records in Streaming Pipelines Using Dead Letter Queues in PySpark
 author: Santhosh Kumar Veeramalla
 published: 2025
